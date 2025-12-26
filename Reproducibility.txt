@@ -1,0 +1,3 @@
+## Reproducibility (Google Colab)
+1) Run `notebooks/Embedding-datasets.ipynb` to generate embeddings / .npy files.
+2) Run `notebooks/mCNN_ETC.ipynb` to train and evaluate.
